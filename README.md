@@ -12,4 +12,4 @@ Run `npm start` to build the app and store it in memory using [Webpack](https://
 
 ## Build For Production
 
-Run `npm build` to build the app for distribution and create a `/dist` directory to store it in.
+Run `npm run build` to build the app for distribution and create a `/dist` directory to store it in.
